@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Familjen+Grotesk:ital,wght@0,400..700;1,400..700&display=swap');
+@import "tailwindcss";
+
+
+
+.font-Boldonse {
+  font-family: 'Boldonse';
+ 
+}
+.font-FamiljenGrotesk {
+  font-family: 'Familjen Grotesk', sans-serif;
+}
+html {
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
+}

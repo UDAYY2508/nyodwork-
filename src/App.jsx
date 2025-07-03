@@ -1,5 +1,5 @@
-import Header from "./components/Header.jsx";
-import Work from "./components/work.jsx";
+import Header from "/src/components/Header.jsx";
+import Work from "/src/components/work.jsx";
 
 function App() {
   return (<>

@@ -1,7 +1,7 @@
 import workImage1 from '../assets/Screenshot 2025-07-05 094024.png';
 import workImage2 from '../assets/Screenshot 2025-02-14 170557.png';
-import workImage3 from '../assets/Screenshot 2025-03-15 194329.png';
-import workImage4 from '../assets/Screenshot 2025-07-04 153359.png';
+import workImage3 from '../assets/Screenshot 2025-07-06 112418.png';
+import workImage4 from '../assets/Screenshot 2025-07-06 112335.png';
 
 function Work() {
     return (
@@ -19,10 +19,9 @@ function Work() {
                     </a>
                 </div>
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
-                    <h3 className="text-white text-2xl font-Boldonse mb-2">Portfolio</h3>
+                    <h3 className="text-white text-5xl font-FamiljenGrotesk mb-1">Portfolio</h3>
                     <p className="text-gray-300 text-lg font-FamiljenGrotesk">
                         A sleek, minimal black-themed portfolio site built on React and framer motion to showcase personal work.
-Fully responsive and animation-ready, the site focuses on smooth transitions, clear typography, and modern aesthetics.
 Vibe: Professional, dark, clean.
 
                     </p>
@@ -41,10 +40,9 @@ Vibe: Professional, dark, clean.
                     </a>
                 </div>
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
-                    <h3 className="text-white text-2xl font-semibold mb-2 font-Boldonse tracking-wide">Gamenext</h3>
+                    <h3 className="text-white text-5xl font-FamiljenGrotesk mb-1">Gamenext</h3>
                     <p className="text-gray-300 text-lg font-FamiljenGrotesk">
                        A bold, interactive site with a dark black-red theme and horizontal scrolling game gallery.
-Built to analyze a user’s psychological profile and recommend video games tailored to their mindset.
 Vibe : Energetic, edgy, gamified.
 
                     </p>
@@ -63,11 +61,9 @@ Vibe : Energetic, edgy, gamified.
                     </a>
                 </div>
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
-                    <h3 className="text-white text-2xl font-semibold mb-2 font-Boldonse tracking-wider">Annapravah</h3>
-                    <p className="text-gray-300 text-lg font-FamiljenGrotesk">
-                       A soft, warm-toned multi-page site built to connect home cooks with students and working professionals.
-Includes menu pages, food categories, and order sections — focused on usability, simplicity, and emotion.
-Vibe: Homely, soothing, functional.
+                    <h3 className="text-white text-5xl font-FamiljenGrotesk mb-1">Annapravah</h3>
+                    <p className="text-gray-300 text-lg font-FamiljenGrotesk text-wrap">
+                       A soft, warm-toned site built to connect home cooks with students and working professionals.Vibe: Homely, soothing, functional.
 
 
                     </p>
@@ -81,15 +77,14 @@ Vibe: Homely, soothing, functional.
                         <img
                             src={workImage4}
                             alt="Work Example"
-                            className="object-cover rounded-xl shadow-2xl w-full h-56 sm:h-80 md:h-[50vh] lg:h-[80vh] max-w-[100vw] border-2 border-neutral-800"
+                            className="object- rounded-xl shadow-2xl w-full h-56 sm:h-80 md:h-[50vh] lg:h-[80vh] max-w-[100vw] border-2 border-neutral-800"
                         />
                     </a>
                 </div>
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
-                    <h3 className="text-white text-2xl font-semibold mb-2 font-Boldonse tracking-wider">Peerverse</h3>
+                    <h3 className="text-white text-5xl font-FamiljenGrotesk mb-1">Peerverse</h3>
                     <p className="text-gray-300 text-lg font-FamiljenGrotesk">
                         A clean, professional platform for college students to network, share resources, and connect around events and interests.
-Multiple pages featuring anonymous connection options, interest-based filters, and collaboration tools.
 Vibe: Organized, smart, youth-centric.
                     </p>
                 </div>

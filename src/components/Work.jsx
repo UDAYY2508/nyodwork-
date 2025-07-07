@@ -29,7 +29,7 @@ Vibe: Professional, dark, clean.
             </div>
             <div className="flex flex-col lg:flex-row items-center gap-8 lg:gap-12 mb-18">
                 <div className="w-full lg:w-[70%] flex justify-center mb-6 lg:mb-0">
-                    <a href="https://your-link-2.com" target="_blank" rel="noopener noreferrer"
+                    <a href="gamenxt.netlify.app" target="_blank" rel="noopener noreferrer"
                         className="block transition-transform duration-300 hover:scale-105 drop-shadow-2xl"
                     >
                         <img

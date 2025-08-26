@@ -71,7 +71,7 @@ Vibe : Energetic, edgy, gamified.
             </div>
             <div className="flex flex-col lg:flex-row items-center gap-8 lg:gap-12 mb-18">
                 <div className="w-full lg:w-[70%] flex justify-center mb-6 lg:mb-0">
-                    <a href="https://your-link-4.com" target="_blank" rel="noopener noreferrer"
+                    <a href="https://edupluse.vercel.app/" target="_blank" rel="noopener noreferrer"
                         className="block transition-transform duration-300 hover:scale-105 drop-shadow-2xl"
                     >
                         <img
@@ -84,8 +84,7 @@ Vibe : Energetic, edgy, gamified.
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
                     <h3 className="text-white text-5xl font-FamiljenGrotesk mb-1">Peerverse</h3>
                     <p className="text-gray-300 text-lg font-FamiljenGrotesk">
-                        A clean, professional platform for college students to network, share resources, and connect around events and interests.
-Vibe: Organized, smart, youth-centric.
+                        A platform to sell and buy educational resources.
                     </p>
                 </div>
             </div>

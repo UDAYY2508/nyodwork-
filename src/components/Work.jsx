@@ -14,8 +14,9 @@ function Work() {
                         <img
                             src={workImage1}
                             alt="Work Example"
-                            className="object-cover rounded-xl shadow-2xl w-full h-56 sm:h-80 md:h-[50vh] lg:h-[80vh] max-w-[100vw] border-2 border-neutral-800"
-                        />
+                             className="object-cover rounded-xl shadow-2xl min-w-[350px] max-w-[350px] min-h-[350px] max-h-[350px] border-2 border-neutral-800"
+/>
+                
                     </a>
                 </div>
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
@@ -35,8 +36,9 @@ Vibe: Professional, dark, clean.
                         <img
                             src={workImage2}
                             alt="Work Example"
-                            className="object-cover rounded-xl shadow-2xl w-full h-56 sm:h-80 md:h-[50vh] lg:h-[80vh] max-w-[100vw] border-2 border-neutral-800"
-                        />
+                             className="object-cover rounded-xl shadow-2xl min-w-[350px] max-w-[350px] min-h-[350px] max-h-[350px] border-2 border-neutral-800"
+/>
+                        
                     </a>
                 </div>
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
@@ -56,8 +58,9 @@ Vibe : Energetic, edgy, gamified.
                         <img
                             src={workImage3}
                             alt="Work Example"
-                            className="object-cover rounded-xl shadow-2xl w-full h-56 sm:h-80 md:h-[50vh] lg:h-[80vh] max-w-[100vw] border-2 border-neutral-800"
-                        />
+                             className="object-cover rounded-xl shadow-2xl min-w-[350px] max-w-[350px] min-h-[350px] max-h-[350px] border-2 border-neutral-800"
+/>
+                        
                     </a>
                 </div>
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
@@ -77,12 +80,13 @@ Vibe : Energetic, edgy, gamified.
                         <img
                             src={workImage4}
                             alt="Work Example"
-                            className="object- rounded-xl shadow-2xl w-full h-56 sm:h-80 md:h-[50vh] lg:h-[80vh] max-w-[100vw] border-2 border-neutral-800"
-                        />
+                             className="object-cover rounded-xl shadow-2xl min-w-[350px] max-w-[350px] min-h-[350px] max-h-[350px] border-2 border-neutral-800"
+/>
+                        
                     </a>
                 </div>
                 <div className="w-full lg:w-[30%] flex flex-col justify-center">
-                    <h3 className="text-white text-5xl font-FamiljenGrotesk mb-1">Peerverse</h3>
+                    <h3 className="text-white text-5xl font-FamiljenGrotesk mb-1">EduPluse</h3>
                     <p className="text-gray-300 text-lg font-FamiljenGrotesk">
                         A platform to sell and buy educational resources.
                     </p>

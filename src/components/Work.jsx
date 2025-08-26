@@ -1,7 +1,7 @@
 import workImage1 from '../assets/Screenshot 2025-07-05 094024.png';
 import workImage2 from '../assets/Screenshot 2025-02-14 170557.png';
 import workImage3 from '../assets/Screenshot 2025-07-06 112418.png';
-import workImage4 from '../assets/Screenshot 2025-07-06 112335.png';
+import workImage4 from '../assets/edu-bg.svg';
 
 function Work() {
     return (
